@@ -1,0 +1,295 @@
+    1  passwd
+    2  wget www.github.com
+    3  pwd
+    4  ls
+    5  quit() exit()
+    6  exit
+    7  nano spotify
+    8  vi spotify-2023.csv
+    9  git status
+   10  Desktop/cs131
+   11  mkdir/Desktop/Worksheet1
+   12  mkdir /tmp/tutorial
+   13  mkdir /tmp/Worksheet1
+   14  cs131
+   15  cs131/
+   16  Worksheet1/
+   17  cd cs131/
+   18  mkdir Worksheet1
+   19  pwd
+   20  mkdir /cs131/Worksheet1
+   21  cd ~/Desktop
+   22  mkdir cs131
+   23  cd cs131/
+   24  mkdir cs131/Worksheet1
+   25  mkdir /cs131/Worksheet1
+   26  git int
+   27  git init
+   28  touch example.txt
+   29  ls
+   30  mkdir Worksheet1
+   31  cd Worksheet1/
+   32  git status
+   33  quit() q
+   34  cd..
+   35  cd ..
+   36  cd cs131/
+   37  mkdir Worksheet1
+   38  git init
+   39  git status
+   40  git commit -m "This is my first commit!"
+   41  cd ..
+   42  cd cs131/
+   43  mkdir cs131
+   44  cd ..
+   45  cd ~/Desktop
+   46  cs131/
+   47  cd cs131/
+   48  mkdir -p /path-to-directory/directory-Worksheet1
+   49  mkdir sampleProject
+   50  ls -ltr
+   51  cd sampleProject/
+   52  touch sampleFile.txt
+   53  git init
+   54  git add .
+   55  git status
+   56  git config --global user.name"JewonYeon"
+   57  git config --global user.email"jewon.yeon@sjsu.edu"
+   58   cd ~/.ssh && ssh-keygen
+   59  mkdir ~/.ssh
+   60  mkdir ~/.ssh
+   61  cd ~/.ssh && ssh-keygen
+   62  git remote add origin git@github.com:jewoneon23f/cs131.git
+   63  cd ..
+   64  git init
+   65  /cs131
+   66  cd cs131
+   67  git init
+   68  git add
+   69  git add .
+   70  git status
+   71  git config --global user.email "jewon.yeon@sjsu.edu"
+   72  git config --global user.name "Jewon Yeon"
+   73   cd ~/.ssh && ssh-keygen
+   74  ssh-keygen -E md5 -lf ~/.ssh/id_dsa.pub
+   75  cat ~/.ssh/id_rsa.pub
+   76  cat ~/.ssh/id_rsa.pub | pbcopy
+   77  cat ~/.ssh/id_rsa.pub
+   78  wget www.github.com
+   79  cd cs131/
+   80  git status
+   81  cd ~/.ssh && ssh-keygen
+   82  pbcopy < ~/.ssh/id_rsa.pub
+   83  ls
+   84  cd cs131
+   85  ls
+   86  git remote add origin git@github.com:jewoneon23f/cs131.git
+   87  git branch -M main
+   88  git push -u origin main
+   89  git init
+   90  git branch
+   91  git branch ls
+   92  git status
+   93  git add .
+   94  git status
+   95  git commit -m "first commit"
+   96  git push
+   97  git push --set-upstream origin main
+   98  git config --global user.email "jewon.yeon@sjsu.edu"
+   99  git config --global user.name "Jewon Yeon"
+  100  git push
+  101  git push --set-upstream origin main
+  102  git remote add origin git@github.com:jewoneon23f/cs131.git
+  103  git remote remove origin
+  104  git remote add origin git@github.com:jewoneon23f/cs131.git
+  105  git push
+  106  git push --set-upstream origin main
+  107  cd ~/.ssh && ssh-keygen
+  108  cat id_rsa.pub
+  109  ls
+  110  cat key.pub
+  111  cd ~
+  112  ls
+  113  cd cs131/
+  114  ls
+  115  git remote add origin git@github.com:jewoneon23f/cs131.git
+  116  git remote remove origin
+  117  git remote add origin git@github.com:jewoneon23f/cs131.git
+  118  git push -u origin main
+  119  eval $(ssh-agent -s)
+  120  ssh-add ~/.ssh/id_rsa
+  121  ssh-add ~/.ssh/key.pub
+  122  cs ~/.ssh/
+  123  cd ~/.ssh
+  124  ls
+  125  ls -l 
+  126  chmod 600 key.pub
+  127  ls -l
+  128  ssh-add ~/.ssh/key.pub
+  129  ssh-add ~/.ssh/
+  130  ls
+  131  ls -ld
+  132  ls
+  133  ls -ld 
+  134  rm '*
+  135  ;
+  136  rm 'cat id_rsa.pub'
+  137  ls
+  138  rm 'cat id_rsa.pub.pub'
+  139  rm key
+  140  ls
+  141  cd ~/.ssh && ssh-keygen
+  142  ls
+  143  cd id_rsa
+  144  ls
+  145  ls -l
+  146  ssh-add ~/.ssh/id_rsa
+  147  cat id_rsa.pub
+  148  cd ~
+  149  ls
+  150  cd cs131
+  151  ls
+  152  git status
+  153  git push
+  154  git remote add origin git@github.com:jewoneon23f/cs131.git
+  155  git push -u origin main
+  156  ;s
+  157  ls
+  158  vim example.txt 
+  159  git status
+  160  git add .
+  161  git commit -m "test commmite"
+  162  git push
+  163  ls
+  164  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  165  brew install pure
+  166  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  167  $HOME/.zsh/pure
+  168  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  169  grep ir United States .
+  170  ls
+  171  cd global
+  172  ls
+  173  cd 'Global YouTube Statistics.csv'/
+  174  grep -i United States .csv
+  175  grep United States Global YouTube Statistics.csv
+  176  grep United Global YouTube Statistics.csv
+  177  grep -ir United .
+  178  grep -ir --include="*.csv" United States .
+  179  grep -ir "United States" *
+  180  find . -name *Music* | xarge grep -i "United States"
+  181  find . -name *Music* | grep -i "United States"
+  182  find . -name *Music* | grep -i "United States" *
+  183  grep -i Music * | grep -i "United States" *
+  184  find . -name "Music"
+  185  grep -i "United States" *
+  186  vim Global YouTube Statistics.csv
+  187  vi Global YouTube Statistics.csv
+  188  find ./ -name Music
+  189  find.
+  190  grep -i "Music" .
+  191  grep -i "Music" *
+  192  grep -i "Music" * | grep -i "United States" *
+  193  grep -i "Music" *
+  194  grep -i "United States" *
+  195  vi Global YouTube Statistics.csv
+  196  grep -i "United States" *
+  197  vim Global YouTube Statistics.csv
+  198  grep -i "Music" *
+  199  vim Global YouTube Statistics.csv
+  200  grep -i "United States" *.csv
+  201  vim Global YouTube Statistics.csv
+  202  grep -i "Music" *.csv
+  203  vim Global YouTube Statistics.csv
+  204  ls
+  205  vim
+  206  echo Global YouTube Statistics.csv
+  207  pwd
+  208  less Global YouTube Statistics.csv
+  209  grep -i "Music" Global YouTube Statistics.csv
+  210  vim Global:36,EminemMusic,56900000,27073872856,Music,EminemMusic,156,United States,US,Music,59,10,14,260193000,65000,1000000,780600,12500000,300000,2007,Feb,9,88.2,328239523,14.7,270663028,37.09024,-95.712891
+  211  less Global YouTube Statistics.csv
+  212  vim Global YouTube Statistics.csv
+  213  grep -i "United States" Global YouTube Statistics.csv
+  214  grep -i "United States" *.csv
+  215  vim Global YouTube Statistics.csv
+  216  grep -i "Music" Global YouTube Statistics.csv
+  217  vim Global YouTube Statistics.csv
+  218  wc -1 Global YouTube Statistics.csv
+  219  wc -l Global YouTube Statistics.csv
+  220  wc 
+  221  ls
+  222  rmdir Global
+  223  del “Global"
+  224  y
+  225  quit
+  226  ls
+  227  del "Global"
+  228  del"Global"
+  229  del"index.html.1"
+  230  rm Global
+  231  ls
+  232  rm Global:36,EminemMusic,56900000,27073872856,Music,EminemMusic,156,United
+  233  ls
+  234  rm index.html.1
+  235  cd cs131
+  236  mkdir Worksheet1
+  237  ls
+  238  rm exapmle.txt
+  239  rm example.txt
+  240  cd ~
+  241  wc Global YouTube Statistics.csv
+  242  less Global YouTube Statistics.csv
+  243  ls
+  244  vim Global YouTube Statistics.csv
+  245  rm Global YouTube Statistics.csv
+  246  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  247  ls
+  248  rm "Global YouTube Statistics.csv"
+  249  ls
+  250  rm "Global YouTube Statistics.csv.1"
+  251  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  252  grep -i "United States" *.csv
+  253  vim Global YouTube Statistics.csv
+  254  grep -i "Music" Global YouTube Statistics.csv
+  255  vim Global YouTube Statistics.csv
+  256  wc Global YouTube Statistics.csv
+  257  wc -lw  Global YouTube Statistics.csv
+  258  cat counts.txt
+  259  touch counts.txt
+  260  wc -lw  Global YouTube Statistics.csv > counts.txt
+  261  wc -lw  Global YouTube Statistics.csv
+  262  ls > counts.txt
+  263  cat counts.txt
+  264  vim counts.txt
+  265  redirection
+  266  ls
+  267  wc -lw  Global YouTube Statistics.csv
+  268  wc -lw  Global YouTube Statistics.csv >> counts.txt
+  269  wc -lw  Global YouTube Statistics.csv > counts.txt
+  270  wc -lw  Global YouTube Statistics.csv
+  271  wc -lw  Statistics.csv
+  272  wc -lw  GlobalYouTubeStatistics.csv
+  273  wc -lw  "Global YouTube Statistics.csv"
+  274  vim Global YouTube Statistics.csv
+  275   wc -lw  "Global YouTube Statistics.csv"
+  276   wc -lw  GlobalYouTubeStatistics.csv
+  277   wc -lw  Global YouTube Statistics.csv
+  278   wc -lw  Global.csv
+  279   wc -lw  Global YouTube Statistics.csv
+  280   wc -lw  Global YouTube Statistics.csv | >> counts.txt
+  281  vim counts.txt
+  282   wc -lw  Global YouTube Statistics.csv | >> counts.txt
+  283  vim counts.txt
+  284  history > cmds.log
+  285  vim cmds.log
+  286  less history
+  287  history
+  288  history > cmds.log
+  289  less cmds.log
+  290  cmds.log
+  291  ls
+  292  history >> cmds.log
+  293  less cmds.log
+  294  history
+  295  history > cmds.log

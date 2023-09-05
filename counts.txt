@@ -1,0 +1,4 @@
+   
+counts Line	word
+  	 83     306 Global
+  	 83     306 total
