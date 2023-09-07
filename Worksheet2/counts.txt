@@ -1,4 +1,2 @@
-   
-counts Line	word
-  	 83     306 Global
-  	 83     306 total
+   Lines Words	
+   83   306 music.txt

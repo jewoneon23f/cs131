@@ -293,3 +293,377 @@
   293  less cmds.log
   294  history
   295  history > cmds.log
+  296  less cmds.log
+  297  cd cs131/
+  298  touch Worksheet2
+  299  git init
+  300  cd ~
+  301  locate cmds.log
+  302  rm cs131
+  303  rm -r cs131
+  304  ls
+  305  mkdir Worksheet1
+  306  mkdir Worksheet2
+  307  locate '*/Worksheet2/*cmds.log*'
+  308  locate '*/Worksheet2/*counts.txt*'
+  309  ls
+  310  cd Worksheet2
+  311  ls
+  312  locate cmds.log
+  313  locate counts.txt
+  314  ls
+  315  cd ~
+  316  ls
+  317  mv cmds.log Worksheet2
+  318  ls
+  319  mv counts.txt Worksheet2
+  320  cd Worksheet2
+  321  ls
+  322  git add .
+  323  git commit -m "Worksheet2"
+  324  git remote add origin https://github.com/cameronmcnz/example-website.git
+  325  git push -u -f origin master
+  326  git remote add origin https://github.com/jewoneon23f/cs131.git
+  327  git add .
+  328  git commit -m "Worksheet2"
+  329  git add.
+  330  git add .
+  331  git commit -m "Worksheet2"
+  332  git add .
+  333  git commit -m "Add existing project files prior to the push to GitHub."
+  334  ls
+  335  git init
+  336  ls ~
+  337  cd ~
+  338  git init
+  339  cd Worksheet2
+  340  git add .
+  341  git commit -m "Add existing project files to Git"
+  342  git remote add origin https://github.com/jewoneon23f/cs131.git
+  343  git push -u -f origin master
+  344  git remote add origin https://github.com/jewoneon23f/cs131.git
+  345  git push -u -f origin master
+  346  git remote add origin git@github.com:jewoneon23f/cs131.git
+  347  git push -u -f origin master
+  348  cd ~
+  349  history
+  350  cd Worksheet2
+  351  git push -u -f origin master
+  352  git status
+  353  git config --global user.email "jewon.yeon@sjsu.edu"
+  354  git config --global user.name "Jewon Yeon"
+  355  git remote add origin git@github.com: jewoneon23f/cs131.git
+  356  git add .
+  357  git status
+  358  git remote add origin git@github.com: jewoneon23f/cs131.git
+  359  ls
+  360  cd Worksheet2
+  361  git remote add origin git@github.com:jewoneon23f/cs131.git
+  362  git commit -m "Message"
+  363  git push --set-upstream origin master
+  364  cd ~
+  365  Keychain Access
+  366  git credential-osxkeychain erase
+  367  host=github.com
+  368  protocol=https
+  369  git init
+  370  git add .
+  371  ls -ltr
+  372  cd Worksheet2
+  373  git init
+  374  git add .
+  375  git status
+  376  git config --global user. name "JewonYeon"
+  377  git config --global user.name "JewonYeon"
+  378  git config --global user.email"jewon.yeon@sjsu.edu"
+  379  cd ~/.ssh && ssh-keygen
+  380  cat id_rsa.pub
+  381  cd Worksheet2
+  382  ls
+  383  cat mac.pub
+  384  rm key.pub
+  385  ls
+  386  cd ~
+  387  cd Worksheet2
+  388  git remote add origin git@github.com:jewoneon23f/cs131.git
+  389  git remote
+  390  git remote -v
+  391  git remote remove origin
+  392  git remote set-url origin git@github.com:jewoneon23f/cs131.git
+  393  git remote add origin git@github.com:jewoneon23f/cs131.git
+  394  git push -u origin main
+  395  git remote
+  396  git push --set-upstream origin master
+  397  cd ~
+  398  cd Worksheet2
+  399  git init
+  400  git status
+  401  git config --global user.name "JewonYeon"
+  402  git config --global user.email"jewon.yeon@sjsu.edu"
+  403  cd ~/.ssh && ssh-keygen
+  404  cat id_rsa.pub
+  405  ls
+  406  rm mac
+  407  rm mac.pub
+  408  cd ~
+  409  cd Worksheet2
+  410  git remote
+  411  git push --set-upstream origin master
+  412  ssh-agent -s
+  413  ssh-add ~/.ssh/id_rsa
+  414  git remote -v
+  415  git push -u origin main
+  416  git push --set-upstream origin master
+  417  ls -al ~/.ssh
+  418  cat id_rsa.pub
+  419  cd ssh/
+  420  cd ~/.ssh
+  421  cat id_rsa.pub
+  422  cd ~
+  423  cd Worksheet2
+  424  git remote
+  425  git commit -m "Message"
+  426  git push --set-upstream origin master
+  427  git remote removw origin
+  428  git remote remove orighin
+  429  git remote remove origin
+  430  git remote add origin git@github.com: jewoneon23f/cs131.git
+  431  git remote add origin git@github.com:jewoneon23f/cs131.git
+  432  git push -u origin main
+  433  eval $(ssh-agent -s)
+  434  ssh-add ~/.ssh/id_rsa
+  435  ssh-add ~/.ssh/key.pub
+  436  cs ~/.ssh/
+  437  cs ~/.ssh
+  438  cs ~/ .ssh
+  439  cs ~/.ssh
+  440  cd ~/.ssh
+  441  ls
+  442  rm k
+  443  rm k.pub
+  444  ls -1
+  445  cd ~
+  446  history
+  447  cd Worksheet2
+  448  git status
+  449  git push
+  450  git push --set-upstream origin main
+  451  git push -u origin main
+  452  git remote add origin git@github.com:jewoneon23f/cs131.git
+  453  git branch -M `main`
+  454  git push --set-upstream origin master
+  455  cd ~/.ssh
+  456  ls
+  457  cat id_rsa.pub
+  458  ssh-add ~/.ssh/key.pub
+  459  ssh-add ~/.ssh/id_rsa.pub
+  460  ssh-add ~/.ssh/id_rsa
+  461  cat id_rsa
+  462  ssh-add ~/.ssh/id_rsa.pub
+  463  cd ~
+  464  cd Worksheet2
+  465  git push --set-upstream origin master
+  466  ls
+  467  cd Worksheet2
+  468  ls
+  469  cd Worksheet2
+  470  ls
+  471  cd ../
+  472  ls
+  473  cd ../
+  474  ls
+  475  cd worksheet2
+  476  cd Worksheet2
+  477  ls
+  478  cd jewonf23
+  479  ls
+  480  git status
+  481  git add Worksheet2
+  482  ls
+  483  git status
+  484  git clone https://github.com/jewoneon23f/cs131.git
+  485  ls
+  486  mv Worksheet2 cs131
+  487  ls
+  488  cd cs131
+  489  ls
+  490  git status
+  491  git add .
+  492  git commit -m "add worksheet2"
+  493  git push
+  494   git config --global user.name "jewoneon23f"
+  495  git config -l
+  496  git push
+  497  git status
+  498  git push
+  499  git push --set-upstream origin master
+  500  git remote add origin git@github.com:jewoneon23f/cs131.git
+  501  git remote remove origin
+  502  git config -l
+  503  git remote add origin git@github.com:jewoneon23f/cs131.git
+  504  git push
+  505  git push --set-upstream origin master
+  506  git config -l
+  507  cd ~/.ssh
+  508  ls
+  509  cat id_rsa.pub
+  510  cd -
+  511  git push
+  512  git push --set-upstream origin main
+  513  ls
+  514  cd Worksheet2
+  515  ls
+  516  cd ../
+  517  ls
+  518  git status
+  519  cd Worksheet2/
+  520  ls
+  521  cat counts.txt 
+  522  git status
+  523  cd ../
+  524  ls
+  525  cd Worksheet2
+  526  ls
+  527  mv cmds.log ../
+  528  ls
+  529  mv counts.txt ../
+  530  ls
+  531  cd ../
+  532  rm Worksheet2/
+  533  ls
+  534  rm -R Worksheet2/
+  535  ls
+  536  mkdir Worksheet2
+  537  rm -Rf Worksheet2
+  538  ls
+  539  mkdir Worksheet2
+  540  ls
+  541  mv cmds.log Worksheet2/
+  542  ls
+  543  mv counts.txt Worksheet2/
+  544  ls
+  545  git status
+  546  git add .
+  547  git commit -m "wksheet2"
+  548  git push
+  549  git status
+  550  ls
+  551  cd Worksheet2/
+  552  ls
+  553  ls -la
+  554  cd ../
+  555  ls -la
+  556  cat .git
+  557  cd .git
+  558  ls
+  559  cd ../
+  560  ls
+  561  cd ../
+  562  ls
+  563  cd cs131
+  564  ls
+  565  cd Worksheet2/
+  566  ls
+  567  mv cmds.log ../
+  568  mv counts.txt ../
+  569  ls
+  570  cd ../
+  571  ls
+  572  rm -RF Worksheet2/
+  573  rm -Rf Worksheet2/
+  574  ls
+  575  git status
+  576  git add .
+  577  git commit -m "reset "
+  578  git push
+  579  ls
+  580  mkdir Worksheet2
+  581  ls
+  582  git status
+  583  ls
+  584  mv cmds.log Worksheet2/
+  585  ls
+  586  git status
+  587  git add Worksheet2
+  588  git status
+  589  ls
+  590  mv counts.txt Worksheet2/
+  591  ls
+  592  git status
+  593  git add .
+  594  git status
+  595  git commit -m "add worksheet2"
+  596  git push
+  597  clear
+  598  kls
+  599  ls
+  600  cd cs131/
+  601  ls
+  602  cd ~
+  603  mv Worksheet1 cs131
+  604  cd cs131/
+  605  ls
+  606  cd Worksheet1
+  607  ls
+  608  cd ..
+  609  cd Worksheet2
+  610  ls
+  611  cd ..
+  612  cd cd Worksheet1
+  613  cd Worksheet1
+  614  touch cmds.log
+  615  history > comds.log
+  616  ls
+  617  history > cmds.log
+  618  rm comds.log
+  619  less cmds.log
+  620  cd ..
+  621  history
+  622  git status
+  623  git commit -m "add worksheet1"
+  624  git push
+  625  git status
+  626  git add .
+  627  git commit -m "add worksheet1"
+  628  git push
+  629  https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+  630  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+  631  ls
+  632  vim spotify-2023.csv 
+  633  touch sort.txt
+  634  vim sort.txt 
+  635  cat sort.txt 
+  636  sort sort.txt
+  637  wc sort.txt 
+  638  wc -1 sort.txt 
+  639  wc -l sort.txt 
+  640  grep "Tyler" spotify-2023.csv 
+  641  grep -i "Eminem" spotify-2023.csv > eminem.txt
+  642  cat eminem.txt
+  643  ls
+  644  cd cs131/
+  645  ls
+  646  rm -r Worksheet2
+  647  ls
+  648  mkdir Worksheet2
+  649  cd Worksheet2
+  650  clear
+  651  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  652  grep -i "united states" > united_states.txt
+  653  cd cs131/Worksheet2
+  654  history
+  655  history in (cs131/Worksheet2)
+  656  history in cs131/Worksheet2/
+  657  ls
+  658  cat united_states.txt 
+  659  grep -i "united states" Global\ YouTube\ Statistics.csv >> united_states.txt 
+  660  cat united_states.txt 
+  661  grep -i "Music" united_states.txt > music.txt | wc -lw
+  662  grep -i "Music" united_states.txt > music.txt
+  663  cat music.txt 
+  664  wc -lw music.txt 
+  665  wc -lw music.txt > counts.txt
+  666  cat counts.txt
+  667  vim counts.txt 
+  668  ls
+  669  history > cmds.log
