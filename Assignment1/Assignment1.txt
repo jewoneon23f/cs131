@@ -1,0 +1,29 @@
+-------------
+1. mkdir Assignment1
+-------------
+2. echo $SHELL
+Output: /bin/bash
+-------------
+3. echo $HOME
+Output: /mnt/scratch/FA23_CS131_Ashish/jewonf23
+-------------
+4. id -u, id -G or id
+Output: uid=1145(jewonf23) gid=1145(jewonf23) groups=1145(jewonf23),77(S77)
+-------------
+5. Chmod u-w myDir
+   Can ls, can ls -l
+   Can’t create files under it
+-------------
+6. touch myDir2
+   touch myDir3
+-------------
+7. touch myFile.txt
+   mv myFile.txt /mnt/scratch/FA23_CS131_Ashish/jewonf23/cs131/Assignment1/myDir3
+-------------
+8. free -m
+-------------
+9. /etc/os-release
+-------------
+10.lrwxrwxrwx. 1 root root 22 Apr  6  2022 /etc/os-release -> ..//usr/lib/os-release
+   rwx for all users
+-------------
