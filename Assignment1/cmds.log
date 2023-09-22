@@ -1,0 +1,1000 @@
+   16  git commit -m "Worksheet2"
+   17  git remote add origin https://github.com/cameronmcnz/example-website.git
+   18  git push -u -f origin master
+   19  git remote add origin https://github.com/jewoneon23f/cs131.git
+   20  git add .
+   21  git commit -m "Worksheet2"
+   22  git add.
+   23  git add .
+   24  git commit -m "Worksheet2"
+   25  git add .
+   26  git commit -m "Add existing project files prior to the push to GitHub."
+   27  ls
+   28  git init
+   29  ls ~
+   30  cd ~
+   31  git init
+   32  cd Worksheet2
+   33  git add .
+   34  git commit -m "Add existing project files to Git"
+   35  git remote add origin https://github.com/jewoneon23f/cs131.git
+   36  git push -u -f origin master
+   37  git remote add origin https://github.com/jewoneon23f/cs131.git
+   38  git push -u -f origin master
+   39  git remote add origin git@github.com:jewoneon23f/cs131.git
+   40  git push -u -f origin master
+   41  cd ~
+   42  history
+   43  cd Worksheet2
+   44  git push -u -f origin master
+   45  git status
+   46  git config --global user.email "jewon.yeon@sjsu.edu"
+   47  git config --global user.name "Jewon Yeon"
+   48  git remote add origin git@github.com: jewoneon23f/cs131.git
+   49  git add .
+   50  git status
+   51  git remote add origin git@github.com: jewoneon23f/cs131.git
+   52  ls
+   53  cd Worksheet2
+   54  git remote add origin git@github.com:jewoneon23f/cs131.git
+   55  git commit -m "Message"
+   56  git push --set-upstream origin master
+   57  cd ~
+   58  Keychain Access
+   59  git credential-osxkeychain erase
+   60  host=github.com
+   61  protocol=https
+   62  git init
+   63  git add .
+   64  ls -ltr
+   65  cd Worksheet2
+   66  git init
+   67  git add .
+   68  git status
+   69  git config --global user. name "JewonYeon"
+   70  git config --global user.name "JewonYeon"
+   71  git config --global user.email"jewon.yeon@sjsu.edu"
+   72  cd ~/.ssh && ssh-keygen
+   73  cat id_rsa.pub
+   74  cd Worksheet2
+   75  ls
+   76  cat mac.pub
+   77  rm key.pub
+   78  ls
+   79  cd ~
+   80  cd Worksheet2
+   81  git remote add origin git@github.com:jewoneon23f/cs131.git
+   82  git remote
+   83  git remote -v
+   84  git remote remove origin
+   85  git remote set-url origin git@github.com:jewoneon23f/cs131.git
+   86  git remote add origin git@github.com:jewoneon23f/cs131.git
+   87  git push -u origin main
+   88  git remote
+   89  git push --set-upstream origin master
+   90  cd ~
+   91  cd Worksheet2
+   92  git init
+   93  git status
+   94  git config --global user.name "JewonYeon"
+   95  git config --global user.email"jewon.yeon@sjsu.edu"
+   96  cd ~/.ssh && ssh-keygen
+   97  cat id_rsa.pub
+   98  ls
+   99  rm mac
+  100  rm mac.pub
+  101  cd ~
+  102  cd Worksheet2
+  103  git remote
+  104  git push --set-upstream origin master
+  105  ssh-agent -s
+  106  ssh-add ~/.ssh/id_rsa
+  107  git remote -v
+  108  git push -u origin main
+  109  git push --set-upstream origin master
+  110  ls -al ~/.ssh
+  111  cat id_rsa.pub
+  112  cd ssh/
+  113  cd ~/.ssh
+  114  cat id_rsa.pub
+  115  cd ~
+  116  cd Worksheet2
+  117  git remote
+  118  git commit -m "Message"
+  119  git push --set-upstream origin master
+  120  git remote removw origin
+  121  git remote remove orighin
+  122  git remote remove origin
+  123  git remote add origin git@github.com: jewoneon23f/cs131.git
+  124  git remote add origin git@github.com:jewoneon23f/cs131.git
+  125  git push -u origin main
+  126  eval $(ssh-agent -s)
+  127  ssh-add ~/.ssh/id_rsa
+  128  ssh-add ~/.ssh/key.pub
+  129  cs ~/.ssh/
+  130  cs ~/.ssh
+  131  cs ~/ .ssh
+  132  cs ~/.ssh
+  133  cd ~/.ssh
+  134  ls
+  135  rm k
+  136  rm k.pub
+  137  ls -1
+  138  cd ~
+  139  history
+  140  cd Worksheet2
+  141  git status
+  142  git push
+  143  git push --set-upstream origin main
+  144  git push -u origin main
+  145  git remote add origin git@github.com:jewoneon23f/cs131.git
+  146  git branch -M `main`
+  147  git push --set-upstream origin master
+  148  cd ~/.ssh
+  149  ls
+  150  cat id_rsa.pub
+  151  ssh-add ~/.ssh/key.pub
+  152  ssh-add ~/.ssh/id_rsa.pub
+  153  ssh-add ~/.ssh/id_rsa
+  154  cat id_rsa
+  155  ssh-add ~/.ssh/id_rsa.pub
+  156  cd ~
+  157  cd Worksheet2
+  158  git push --set-upstream origin master
+  159  ls
+  160  cd Worksheet2
+  161  ls
+  162  cd Worksheet2
+  163  ls
+  164  cd ../
+  165  ls
+  166  cd ../
+  167  ls
+  168  cd worksheet2
+  169  cd Worksheet2
+  170  ls
+  171  cd jewonf23
+  172  ls
+  173  git status
+  174  git add Worksheet2
+  175  ls
+  176  git status
+  177  git clone https://github.com/jewoneon23f/cs131.git
+  178  ls
+  179  mv Worksheet2 cs131
+  180  ls
+  181  cd cs131
+  182  ls
+  183  git status
+  184  git add .
+  185  git commit -m "add worksheet2"
+  186  git push
+  187   git config --global user.name "jewoneon23f"
+  188  git config -l
+  189  git push
+  190  git status
+  191  git push
+  192  git push --set-upstream origin master
+  193  git remote add origin git@github.com:jewoneon23f/cs131.git
+  194  git remote remove origin
+  195  git config -l
+  196  git remote add origin git@github.com:jewoneon23f/cs131.git
+  197  git push
+  198  git push --set-upstream origin master
+  199  git config -l
+  200  cd ~/.ssh
+  201  ls
+  202  cat id_rsa.pub
+  203  cd -
+  204  git push
+  205  git push --set-upstream origin main
+  206  ls
+  207  cd Worksheet2
+  208  ls
+  209  cd ../
+  210  ls
+  211  git status
+  212  cd Worksheet2/
+  213  ls
+  214  cat counts.txt 
+  215  git status
+  216  cd ../
+  217  ls
+  218  cd Worksheet2
+  219  ls
+  220  mv cmds.log ../
+  221  ls
+  222  mv counts.txt ../
+  223  ls
+  224  cd ../
+  225  rm Worksheet2/
+  226  ls
+  227  rm -R Worksheet2/
+  228  ls
+  229  mkdir Worksheet2
+  230  rm -Rf Worksheet2
+  231  ls
+  232  mkdir Worksheet2
+  233  ls
+  234  mv cmds.log Worksheet2/
+  235  ls
+  236  mv counts.txt Worksheet2/
+  237  ls
+  238  git status
+  239  git add .
+  240  git commit -m "wksheet2"
+  241  git push
+  242  git status
+  243  ls
+  244  cd Worksheet2/
+  245  ls
+  246  ls -la
+  247  cd ../
+  248  ls -la
+  249  cat .git
+  250  cd .git
+  251  ls
+  252  cd ../
+  253  ls
+  254  cd ../
+  255  ls
+  256  cd cs131
+  257  ls
+  258  cd Worksheet2/
+  259  ls
+  260  mv cmds.log ../
+  261  mv counts.txt ../
+  262  ls
+  263  cd ../
+  264  ls
+  265  rm -RF Worksheet2/
+  266  rm -Rf Worksheet2/
+  267  ls
+  268  git status
+  269  git add .
+  270  git commit -m "reset "
+  271  git push
+  272  ls
+  273  mkdir Worksheet2
+  274  ls
+  275  git status
+  276  ls
+  277  mv cmds.log Worksheet2/
+  278  ls
+  279  git status
+  280  git add Worksheet2
+  281  git status
+  282  ls
+  283  mv counts.txt Worksheet2/
+  284  ls
+  285  git status
+  286  git add .
+  287  git status
+  288  git commit -m "add worksheet2"
+  289  git push
+  290  clear
+  291  kls
+  292  ls
+  293  cd cs131/
+  294  ls
+  295  cd ~
+  296  mv Worksheet1 cs131
+  297  cd cs131/
+  298  ls
+  299  cd Worksheet1
+  300  ls
+  301  cd ..
+  302  cd Worksheet2
+  303  ls
+  304  cd ..
+  305  cd cd Worksheet1
+  306  cd Worksheet1
+  307  touch cmds.log
+  308  history > comds.log
+  309  ls
+  310  history > cmds.log
+  311  rm comds.log
+  312  less cmds.log
+  313  cd ..
+  314  history
+  315  git status
+  316  git commit -m "add worksheet1"
+  317  git push
+  318  git status
+  319  git add .
+  320  git commit -m "add worksheet1"
+  321  git push
+  322  https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+  323  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/spotify-2023.csv
+  324  ls
+  325  vim spotify-2023.csv 
+  326  touch sort.txt
+  327  vim sort.txt 
+  328  cat sort.txt 
+  329  sort sort.txt
+  330  wc sort.txt 
+  331  wc -1 sort.txt 
+  332  wc -l sort.txt 
+  333  grep "Tyler" spotify-2023.csv 
+  334  grep -i "Eminem" spotify-2023.csv > eminem.txt
+  335  cat eminem.txt
+  336  ls
+  337  cd cs131/
+  338  ls
+  339  rm -r Worksheet2
+  340  ls
+  341  mkdir Worksheet2
+  342  cd Worksheet2
+  343  clear
+  344  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  345  grep -i "united states" > united_states.txt
+  346  cd cs131/Worksheet2
+  347  history
+  348  history in (cs131/Worksheet2)
+  349  history in cs131/Worksheet2/
+  350  ls
+  351  cat united_states.txt 
+  352  grep -i "united states" Global\ YouTube\ Statistics.csv >> united_states.txt 
+  353  cat united_states.txt 
+  354  grep -i "Music" united_states.txt > music.txt | wc -lw
+  355  grep -i "Music" united_states.txt > music.txt
+  356  cat music.txt 
+  357  wc -lw music.txt 
+  358  wc -lw music.txt > counts.txt
+  359  cat counts.txt
+  360  vim counts.txt 
+  361  ls
+  362  history > cmds.log
+  363  ls
+  364  git status
+  365  git add .
+  366  git commit -m "Worksheet2"
+  367  git push
+  368  $DISPLAY
+  369  $TERM
+  370  echo $USER
+  371  pwd
+  372  path
+  373  a=1234
+  374  b=a+1
+  375  echo a
+  376  echo "a"
+  377  printf a
+  378  printf "a"
+  379  pritnf "$a"
+  380  echo $a
+  381  echo $b
+  382  b=$a+1
+  383  ehco $b
+  384  echo $b
+  385  echo $($b)
+  386  echo $($a+1)
+  387  echo $(($a+1))
+  388  echo $(($b))
+  389  echo $((b))
+  390  quit
+  391  q
+  392  quit() q
+  393  a = 'abc'
+  394  a='abc'
+  395  echo ${a}def
+  396  echo $d{a}ef
+  397  echo d${a}ef
+  398  name() {echo "cs131";}
+  399  name() { echo "cs131"; }
+  400  export -f name
+  401  name
+  402  echo $a
+  403  exit $?
+  404  exit $
+  405  clear
+  406  ls
+  407  echo "Hello"
+  408  echo 'pwd'
+  409  pwd
+  410  echo $shell
+  411  echo $SHELL
+  412  echo $HOME
+  413  $printenv
+  414  $PATH
+  415  cd cs131/
+  416  $PATH
+  417  PATH
+  418  $USER
+  419  $PWD
+  420  echo $a
+  421  a='123'
+  422  echo $a
+  423  echo $?
+  424  mkdir notempty
+  425  echo $?
+  426  ech $a
+  427  echo $?
+  428  ls
+  429  cd notempty/
+  430  touch index.html
+  431  vi index.html
+  432  echo "Hello" >> index.html
+  433  vim index.html 
+  434  cd ~
+  435  ls -a
+  436  vim .bashrc
+  437  .zhrc
+  438  vim .zhrc
+  439  vim .bashrc
+  440  source .bashrc
+  441  lll
+  442  type ll
+  443  type lll
+  444  ls
+  445  fcount = 'wc -l spotify-2023.csv'
+  446  fcount='wc -l spotify-2023.csv'
+  447  echo "line is : $fcount"
+  448  fcount=`wc -l spotify-2023.csv`
+  449  echo "line is : $fcount"
+  450  cd /etc/
+  451  vi passwd
+  452  cat passwd | grep 'jewon'
+  453  cat shadow | grep 'ashish'
+  454  cat shadow | grep 'jewon'
+  455  cat shadow | grep 'jewonf23'
+  456  cat group 
+  457  cat shadow
+  458  cat passwd | grep 'jewon'
+  459  cat passwd | grep $HOME
+  460  cat passwd | grep 'root'
+  461  sudo vim shadow
+  462  su 
+  463  su - jonathanf23
+  464  ls -ltr
+  465  ls
+  466  less Global
+  467  rm Global
+  468  rm 'Global YouTube Statistics.csv' 
+  469  cd cs131/
+  470  ls
+  471  mkdir Worksheet3
+  472  ls
+  473  cd Worksheet3
+  474  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/Global%20YouTube%20Statistics.csv
+  475  ls
+  476  cd cs131/
+  477  ls
+  478  cd Worksheet3
+  479  ls
+  480  grep -i 'United\ States|United\ Kingdom|India' Global\ YouTube\ Statistics.csv 
+  481  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv 
+  482  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv > highest_montly_earnings
+  483  ls
+  484  vim Global\ YouTube\ Statistics.csv 
+  485  column Global\ YouTube\ Statistics.csv -t -s ','
+  486  sed 's/,,/, ,/g' Global\ YouTube\ Statistics.csv 
+  487  sed 's/,/, ,/g' Global\ YouTube\ Statistics.csv 
+  488  cat Global\ YouTube\ Statistics.csv | column -s, -t | less
+  489  cat Global\ YouTube\ Statistics.csv | column -s, -t | less -#5 -N -S
+  490  grep 'highest' Global\ YouTube\ Statistics.csv 
+  491  sort -k 1n Global\ YouTube\ Statistics.csv 
+  492  grep 'highest' Global\ YouTube\ Statistics.csv 
+  493  head -l Global\ YouTube\ Statistics.csv 
+  494  head -1 Global\ YouTube\ Statistics.csv 
+  495  head -1 Global\ YouTube\ Statistics.csv | grep 'highest' | wc -c
+  496  head -1 Global\ YouTube\ Statistics.csv | grep 'highest' | wc -w
+  497  awk -F'|',' { for (i = 1; i <= NF; ++i) print i, $i; exit } ' Global\ YouTube\ Statistics.csv 
+  498  head -1 Global\ YouTube\ Statistics.csv | tr ',' '\n' | nl
+  499  sort -k 16n Global\ YouTube\ Statistics.csv 
+  500  sort -k 16n highest_montly_earnings > highest_montly_earnings 
+  501  less highest_montly_earnings 
+  502  vim highest_montly_earnings 
+  503  cat highest_montly_earnings 
+  504  ls
+  505  vim highest_montly_earnings 
+  506  rm highest_montly_earnings 
+  507  ls
+  508  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | sort -k 16n > highest_montly_earnings
+  509  ls
+  510  vim highest_montly_earnings 
+  511  vim Global\ YouTube\ Statistics.csv 
+  512  less highest_montly_earnings 
+  513  cut -c 16 highest_montly_earnings 
+  514  head -1 Global\ YouTube\ Statistics.csv | tr ',' '\n' | nl
+  515  vim Global\ YouTube\ Statistics.csv 
+  516  cd cs131/Worksheet3
+  517  ls
+  518  clear
+  519  ls
+  520  vim highest_montly_earnings 
+  521  sork -c 16 highest_montly_earnings 
+  522  sort -c 16 highest_montly_earnings 
+  523  sort -c 16n highest_montly_earnings 
+  524  sort -c 16 Global\ YouTube\ Statistics.csv 
+  525  sort -c highest_montly_earnings 
+  526  sort -c Global\ YouTube\ Statistics.csv 
+  527  sort -c highest_montly_earnings || echo -n "not " ; echo "sorted"
+  528  awk '{print $16}' Global\ YouTube\ Statistics.csv 
+  529  awk '{print $1}' Global\ YouTube\ Statistics.csv 
+  530  awk '{print $1}' highest_montly_earnings 
+  531  cut -d' ' -f16 highest_montly_earnings 
+  532  cut -d',' -f16 highest_montly_earnings 
+  533  cut -d',' -f15 highest_montly_earnings 
+  534  cut -d',' -f17 highest_montly_earnings 
+  535  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | tr ',' '\n' | sort -k 16n > highest_montly_earnings
+  536  cut -d',' -f16 highest_montly_earnings 
+  537  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | tr ',' '\n' | sort -k 16 > highest_montly_earnings
+  538  vim highest_montly_earnings 
+  539  rm highest_montly_earnings 
+  540  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | tr ',' '\n' | sort -k 16 > highest_montly_earnings
+  541  vim highest_montly_earnings 
+  542  rm highest_montly_earnings 
+  543  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | sed -e 's/,//n/g' | sort -k 16 > highest
+  544  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | sed -e 's/,,/, ,/g' | sort -k 16 > highest
+  545  vim highest 
+  546  sort -c highest 
+  547  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | sed -e 's/,,/, ,/g' | sort -k 16n > highest
+  548  sort -c highest 
+  549  cut -d' ' -f16 highest 
+  550  cut -d',' -f16 highest 
+  551  cd cs131/Worksheet3
+  552  ls
+  553  vim highest 
+  554  akw {print $16} highest 
+  555  awk {print $16} highest 
+  556  awk '{print $16} hi
+  557  awk '{print $16}' highest 
+  558  cut -d',' -f16 highest 
+  559  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | sort -d',' -k 16n > highest
+  560  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv | sort -n -t ',' -k16 > highest
+  561  cut -d',' -f16 highest 
+  562  vim Global\ YouTube\ Statistics.csv 
+  563  grep -i 'United States\|United Kingdom\|India' Global\ YouTube\ Statistics.csv > Country
+  564  vim Country 
+  565  cut -d',' -f8 highest 
+  566  cut -d',' -f8 Country 
+  567  cut -d',' -f16 Country 
+  568  cut -d',' -f8,16 Country 
+  569  cut -d',' -f8 Global\ YouTube\ Statistics.csv| grep -i 'United States\|United Kingdom\|India'
+  570  awk '{print $16}' Global\ YouTube\ Statistics.csv 
+  571  awk -F',' '{print $16}' Global\ YouTube\ Statistics.csv 
+  572  awk -F',' '{print $8}' Global\ YouTube\ Statistics.csv 
+  573  awk -F',' '$8 == "United States"' '{print $8}' Global\ YouTube\ Statistics.csv 
+  574  awk -F',' '$8 == "United States" {print $8}' Global\ YouTube\ Statistics.csv 
+  575  awk -F',' '$8 == "United States" {print $0}' Global\ YouTube\ Statistics.csv 
+  576  awk -F',' '$8 == "United States" || $8 == "United Kingdom" || $8 == "India"  {print $0}' Global\ YouTube\ Statistics.csv 
+  577  awk -F',' '$8 == "United States" || $8 == "United Kingdom" || $8 == "India"  {print $8}' Global\ YouTube\ Statistics.csv 
+  578  awk -F',' '$8 == "United States" || $8 == "United Kingdom" || $8 == "India"  {print $0}' Global\ YouTube\ Statistics.csv 
+  579  awk -F',' '$8 == "United States" || $8 == "United Kingdom" || $8 == "India"  {print $0}' Global\ YouTube\ Statistics.csv > Country
+  580  cat Country
+  581  Country | sort -n -t ',' -k16 > highest
+  582  cat Country | sort -n -t ',' -k16 > highest
+  583  cat highest 
+  584  awk -F',' '{print $16}' highest
+  585  awk -F',' '{print $8,$16}' highest
+  586  cat Country
+  587  cat Country | sort -n -t ',' -k0 > highest
+  588  cat Country | sort -n -t ',' -k1 > highest
+  589  cat highest
+  590  cat Country | sort -n -t ',' -k1,1 > highest
+  591  cat highest
+  592  awk -F',' '{print $1}' highest
+  593  cat Country | sort -n -t ',' -k16,16 > highest
+  594  awk -F',' '{print $16}' highest
+  595  vim Global\ YouTube\ Statistics.csv 
+  596  head -1 Global\ YouTube\ Statistics.csv | tr ',' '\n' | nl
+  597  awk -F',' '$3 == "United States" || $3 == "United Kingdom" || $3 == "India"  {print $0}' Global\ YouTube\ Statistics.csv > Subscribe
+  598  awk -F',' '{print $3}' Subscribe 
+  599  cat Subscribe 
+  600  ls
+  601  vim Subscribe 
+  602  cd cs131/Worksheet3
+  603  ls
+  604  awk -F',' '$3 == "Education" || $3 == "Entertainment" || $3 == "Sports"  {print $0}' Global\ YouTube\ Statistics.csv > Subscribe
+  605  cut -d',' $3 Subscribe 
+  606  cut -d',' -f3 Subscribe 
+  607  cat Subscribe 
+  608  vim Subscribe 
+  609  awk -F',' '$3 == "Education" || $3 == "Entertainment" || $3 == "Sports"  {print $0}' Global\ YouTube\ Statistics.csv > Subscribe
+  610  vim Subscribe 
+  611  awk -F',' '$3 == "Education" || $3 == "Entertainment" || $3 == "Sports"  {print $0}' Global\ YouTube\ Statistics.csv
+  612  awk -F',' '$3 == "Education" || $3 == "Entertainment" || $3 == "Sports"  {print $0}' Global\ YouTube\ Statistics.csv > Subscribe
+  613  vim Subscribe 
+  614  rm Subscribe 
+  615  awk -F',' '$3 == "Education" || $3 == "Entertainment" || $3 == "Sports"  {print $0}' Global\ YouTube\ Statistics.csv > Subscribe
+  616  cat Subscribe 
+  617  head -1 Global\ YouTube\ Statistics.csv | tr ',' '\n' | nl
+  618  awk -F',' '$5 == "Education" || $5 == "Entertainment" || $5 == "Sports"  {print $0}' Global\ YouTube\ Statistics.csv > Subscribe
+  619  cat Subscribe 
+  620  cd cs131/Worksheet3
+  621  ls
+  622  awk -F',' '{print $5}' Subscribe 
+  623  rm Subscribe categories
+  624  cd cs131/Worksheet3
+  625  ls
+  626  cd cs131/Worksheet3
+  627  ls
+  628  echo -F',' '$8 == "United States" || $8 == "United Kingdom" || $8 == "India"  {print $0}' Global\ YouTube\ Statistics.csv
+  629  cd cs131/Worksheet3
+  630  ls
+  631  mv highest highest_monthly_earnings
+  632  ls
+  633  cat highest_monthly_earnings 
+  634  cd cs131/Worksheet3
+  635  ls
+  636  cd cs131/Worksheet3
+  637  ls
+  638  cd cs131/Worksheet3
+  639  ls
+  640  awk '{print $3," ",$5}' scriptWS3.txt 
+  641  awk '{print $1," ",$2}' scriptWS3.txt 
+  642  awk '{print $1," ",$3}' scriptWS3.txt 
+  643  awk '{print $3," ",$5}' highest_monthly_earnings 
+  644  awk '{print $3," ",$5}' 
+  645  ls
+  646  cat script
+  647  cd cs131/Worksheet3
+  648  ls
+  649  awk -F',' '$5 == "Education" || $5 == "Sports" || $5 == "Entertainment"  {print $0}' Global\ YouTube\ Statistics.csv > Categories
+  650  ls
+  651  cat Categories 
+  652  awk -F',' '{print $5}' Categories 
+  653  cat Categories | sort -n -t ',' -k3,3 > #Subscribers
+  654  cat Categories | sort -n -t ',' -k3,3 > Subscribers
+  655  awk -F',' '{print $3}' Subscribers 
+  656  cat Subscribers 
+  657  awk -F',' '{print $8,$16}' highest_monthly_earnings 
+  658  awk -F',' '{print $8,$16}' highest_monthly_earnings > script ws3.txt
+  659  awk -F',' '{print $8,$16}' highest_monthly_earnings > scriptWS3.txt
+  660  cat scriptWS3.txt 
+  661  cd cs131/Worksheet3
+  662  ls
+  663  cd cs131/Worksheet3
+  664  ls
+  665  cd cs131/Worksheet3
+  666  cd cs131/Worksheet3
+  667  awk '{print $8," ",$16}' highest_monthly_earnings | awk '{print $3," ",$5}' Subscribers | column -s “ “ -t > scriptWS3.txt
+  668  cd cs131/Worksheet3
+  669  ls
+  670  cat scriptWS3.txt 
+  671  awk '{print $8"|"$16}' highest_monthly_earnings | awk '{print $3"|"$5}' Subscribers > scriptWS3.txt 
+  672  cat scriptWS3.txt 
+  673  awk -F',' '{print $8"|"$16}' highest_monthly_earnings | awk -F',' '{print $3"|"$5}' Subscribers > scriptWS3.txt 
+  674  cat scriptWS3.txt 
+  675  awk -F',' '{print $8"|"$16}' highest_monthly_earnings >> scriptWS3.txt 
+  676  cat scriptWS3.txt 
+  677  column -s"|" scriptWS3.txt 
+  678  column -s "|" scriptWS3.txt 
+  679  column -s "|" -t scriptWS3.txt 
+  680  column -s "|" scriptWS3.txt 
+  681  column -s "|" -t scriptWS3.txt 
+  682  cat scriptWS3.txt 
+  683  cat scriptWS3.txt | column -s "|" -t scriptWS3.txt 
+  684  cat scriptWS3.txt 
+  685  column -s "|" -t scriptWS3.txt > scriptWS3.txt 
+  686  cat scriptWS3.txt 
+  687  column -s "|" -t scriptWS3.txt
+  688  awk -F',' '{print $8"|"$16}' highest_monthly_earnings > scriptWS3.txt 
+  689  awk -F',' '{print $5"|"$3}' Subscribers >> scriptWS3.txt 
+  690  cat scriptWS3.txt 
+  691  column -s "|" -t scriptWS3.txt
+  692  cd cs131/Worksheet3
+  693  cat scriptWS3.txt | column -s "|" -t > scriptWS3.txt 
+  694  cat scriptWS3.txt 
+  695  ls
+  696  awk -F',' '{print $8," ",$16}' highest_monthly_earnings > scriptWS3.txt
+  697  awk -F',' '{print $5," ",$3}' Subscribers >> scriptWS3.txt
+  698  cat scriptWS3.txt 
+  699  column -s "  " -t scriptWS3.txt 
+  700  awk -F',' '{print $8"|"$16}' highest_monthly_earnings > scriptWS3.txt
+  701  awk -F',' '{print $5"|"$3}' Subscribers >> scriptWS3.txt
+  702  cd cs131/Worksheet3
+  703  ls
+  704  awk -F',' '{print $3 $5}' Subscribers 
+  705  awk -F',' '{print $3" " $5}' Subscribers 
+  706  awk -F',' '{print $8" " $16}' highest_monthly_earnings 
+  707  cd cs131/Worksheet3
+  708  ls
+  709  cat script
+  710  cat scriptWS3.txt 
+  711  rm script
+  712  cd cs131/Worksheet3
+  713  colums -t scriptWS3.txt 
+  714  colum -t scriptWS3.txt 
+  715  column -t scriptWS3.txt 
+  716  cd cs131/Worksheet3
+  717  ls
+  718  awk -F',' '{print $3"  "$5}' Subscribers
+  719  cd cs131/Worksheet3
+  720  awk '{print $8," ",$16}' highest_monthly_earnings | awk '{print $3," ",$5}' Subscribers | column -s “ “ -t > scriptWS3.txt
+  721  awk '{print $8," ",$16}' highest_monthly_earnings | awk '{print $3," ",$5}' Subscribers | column -s " " -t > scriptWS3.txt
+  722  cat scriptWS3.txt 
+  723  awk '{print $3," ",$5}' Subscribers | column -s " " -t
+  724  awk -F',' '{print $3," ",$5}' Subscribers | column -s " " -t
+  725  awk -F',' '{print $8," ",$16}' highest_monthly_earnings | awk -F',' '{print $3," ",$5}' Subscribers | column -s " " -t > scriptWS3.txt 
+  726  cat scriptWS3.txt 
+  727  awk -F',' '{print $8," ",$16}' highest_monthly_earnings | column -s " " -t >> scriptWS3.txt 
+  728  cat scriptWS3.txt 
+  729  awk -F',' '{print $8,"  ",$16}' highest_monthly_earnings | column -s " " -t >> scriptWS3.txt 
+  730  cat scriptWS3.txt 
+  731  awk -F',' '{print $8,"  ",$16}' highest_monthly_earnings | column -s "  " -t > scriptWS3.txt 
+  732  cat scriptWS3.txt 
+  733  awk -F',' '{print $8,"  ",$16}' highest_monthly_earnings | column -t > scriptWS3.txt 
+  734  cat scriptWS3.txt 
+  735  awk -F',' '{print $8,"  ",$16}' highest_monthly_earnings | column -s "  " -t
+  736  awk -F',' '{print $8,"  ",$16}' highest_monthly_earnings | column -s "  "
+  737  awk -F',' '{print $8,"  ",$16}' highest_monthly_earnings 
+  738  awk -F',' '{print $8"  "$16}' highest_monthly_earnings 
+  739  awk -F',' '{print $8"  "$16}' highest_monthly_earnings | column -s "  "
+  740  awk -F',' '{print $8"  "$16}' highest_monthly_earnings | column -s "  " -t
+  741  awk -F',' '{print $8"  "$16}' highest_monthly_earnings | column -s " " -t
+  742  awk -F',' '{print $8"  "$16}' highest_monthly_earnings | column -s "   " -t
+  743  awk -F',' '{print $8"  "$16}' highest_monthly_earnings | column -s " "
+  744  awk -F',' '{print $8"|"$16}' highest_monthly_earnings 
+  745  awk -F',' '{print $8"|"$16}' highest_monthly_earnings | column -s"|" 
+  746  a
+  747  cd cs131/Worksheet3
+  748  cd cs131/Worksheet3
+  749  cd cs131/Worksheet3
+  750  cat scriptWS3.txt | column -s "|" -t > script.txt
+  751  ls
+  752  cat script
+  753  cat script.txt 
+  754  mv scriptWS3.txt Merged
+  755  mv script.txt scriptWS3.txt
+  756  ls
+  757  vim scriptWS3.txt 
+  758  cat scriptWS3.txt 
+  759  history > cmds.log
+  760  ls
+  761  git status
+  762  git add .
+  763  git commit -m "Worksheet3"
+  764  git push
+  765  ls -ltr
+  766  echo $SHELL
+  767  echo $pwd
+  768  echo pwd
+  769  echo $USER
+  770  pwd
+  771  echo `pwd`
+  772  `pwd`
+  773  ls -l
+  774  ls -lwr
+  775  ls -l
+  776  echo `UID`
+  777  id
+  778  mkdir jaja
+  779  cd jaja/
+  780  ls
+  781  ls -l
+  782  id
+  783  chmod u-w jaja
+  784  cd ..
+  785  chmod u-w jaja
+  786  cd jaja/
+  787  ls
+  788  ls -l
+  789  mkdir wfw
+  790  cd ..
+  791  rm jaja
+  792  rm -r jaja/
+  793  ls
+  794  rm -r jaja
+  795  ls
+  796  rm -d jaja
+  797  ls
+  798  rm -d jaja
+  799  ls
+  800  free
+  801  free -m
+  802  etc
+  803  $etc
+  804  /etc/os-release
+  805   /etc/os-release
+  806  cat /etc/os-release
+  807  cd cs131/
+  808  cd ..
+  809  ls
+  810  find .-name newDir
+  811  find . -name newDir
+  812  find . -name newDia
+  813  find -f -name newDir
+  814  find -d -name newDir
+  815  clear
+  816  ls
+  817  ls -latr
+  818  pwd
+  819  vim .bashrc
+  820  source .bashrc
+  821  lll
+  822  cd cs131/
+  823  ls
+  824  cat EXAMPLE.txt
+  825  cat Example.txt
+  826  /etc/group
+  827  cat /etc/group
+  828  cat /etc/group/jewonf23
+  829  cat /etc/passwd
+  830  ls -latr /
+  831  cd ..
+  832  mkdir newDir
+  833  cd newDir/
+  834  ls -a
+  835  man ls
+  836  find -type -d -name newDir
+  837  find -type d -name newDir
+  838  find -type f -name newDir
+  839  ls
+  840  find -type f -name sort.txt 
+  841  find -type f -name 
+  842  find -type f 
+  843  find -type f -iname Sort.txt 
+  844  find -type f -ipath Sort.txt 
+  845  find ./ -type f -name “*.txt”
+  846  find ./ -type f -name "*.txt"
+  847  ls -l
+  848  date -I
+  849  sudo date -I
+  850  sudo sudo date -I
+  851  ls -l
+  852  find ./ -type f -name "*.txt"
+  853  ls
+  854  vim spotify-2023.csv 
+  855  man free
+  856  free -m
+  857  free -h
+  858  free -h m
+  859  free -hm
+  860  free -hb
+  861  exit
+  862  cd cs131/
+  863  cd Assignment1/
+  864  ls
+  865  cat Script1 
+  866  2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y
+  867  script Script1 
+  868  vim Assignment1.txt 
+  869  vim -r Assignment1.txt 
+  870  ls
+  871  vim Assignment1.txt 
+  872  vim .Assignment1.txt.swp
+  873  exit
+  874  cd cs131/Assignment1/
+  875  script Script1 
+  876  cat Script1 
+  877  script Script1 
+  878  ls
+  879  echo $SHELL
+  880  vim Assignment1.txt 
+  881  echo $HOME
+  882  vim Assignment1.txt 
+  883  id
+  884  vim Assignment1.txt 
+  885  mkdir myDir
+  886  chmod u-w myDir
+  887  cd myDir/
+  888  ls
+  889  ls -l
+  890  touch file1.txt
+  891  cd ..
+  892  mkdir myDir2
+  893  mkdir myDir3
+  894  cd myDir2
+  895  touch myFile.txt
+  896  mv myFile.txt myDir3
+  897  cd ..
+  898  cd myDir3
+  899  ls
+  900  cd ..
+  901  ls
+  902  cd myDir2
+  903  ls
+  904  mv myDir3 myFile
+  905  ls
+  906  mv myFile /myDir3/
+  907  mv myFile ~/myDir3
+  908  ls
+  909  cd ..
+  910  ls
+  911  cd myDir3
+  912  ls
+  913  cd ~/myDir3 
+  914  cd ..
+  915  ls
+  916  cd myDir2
+  917  ls
+  918  touch myFile.txt
+  919  mv myFile.txt /myDir3
+  920  pwd
+  921  mv myFile.txt /mnt/scratch/FA23_CS131_Ashish/jewonf23/cs131/Assignment1/myDir3
+  922  ls
+  923  cd ..
+  924  cd myDir3
+  925  ls
+  926  cd ..
+  927  ls
+  928  vim Assignment1.txt 
+  929  free -m
+  930  vim Assignment1.txt 
+  931  cat /etc/os-release
+  932  vim Assignment1.txt 
+  933  ls -l /etc/os-release
+  934  vim Assignment1.txt 
+  935  quit
+  936  ls
+  937  exit
+  938  ls
+  939  cd cs131/
+  940  script Script1
+  941  mkdir Assignment1
+  942  vim Assignment1/
+  943  cd Script1 
+  944  cd Assignment1/
+  945  ls
+  946  touch Assignment1.txt
+  947  vim Assignment1.txt 
+  948  cd cs131/
+  949  ls
+  950  cat Script1 
+  951  2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y:
+  952  ls
+  953  cat Script1 
+  954  2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y
+  955  rm Script1 
+  956  cd Assignment1/
+  957  script Script1
+  958  vim Assignment1.txt 
+  959  cd cs131/Assignment1/
+  960  script Script1 
+  961  vim Assignment1.txt 
+  962  cd cs131/Assignment1/
+  963  cat Script1 
+  964  script Script1 
+  965  vim Assignment1.txt 
+  966  echo $SHELL
+  967  vim Assignment1.txt 
+  968  vim -r Assignment1.txt 
+  969  echo $HOME
+  970  vim Assignment1.txt 
+  971  cd cs131/Assignment1/
+  972  cat Script1 
+  973  2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y
+  974  script Script1 
+  975  vim Assignment1.txt 
+  976  cd cs131/Assignment1/
+  977  vim Assignment1.txt 
+  978  sudo rm /etc/.Assignment1.txt.swp
+  979  rm /etc/.Assignment1.txt.swp
+  980  rm Assignment1.txt.swp
+  981  rm -r Assignment1.txt.swp
+  982  vim Assignment1.txt 
+  983  ls -latr
+  984  rm .Assignment1.txt.swp
+  985  rm .Assignment1.txt.swo
+  986  ls -latr
+  987  vim Assignment1.txt 
+  988  clear
+  989  script Script1 
+  990  cat Script1 
+  991  2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y2R0;95;0c10;rgb:efef/f0f0/ebea11;rgb:2827/2a29/363512;4$y
+  992  ls
+  993  git status
+  994  git commit -m "Assignment1"
+  995  git commit -m"Assignment1"
+  996  git add .
+  997  git commit -m "Assignment1"
+  998  git push
+  999  cd cs131/Assignment1/
+ 1000  ls
+ 1001  vim Assignment1.txt 
+ 1002  /etc/os-release
+ 1003  cat /etc/os-release
+ 1004  vim Assignment1.txt 
+ 1005  free -m
+ 1006  vim Assignment1.txt 
+ 1007  cd myDir
+ 1008  touch emp
+ 1009  touch file
+ 1010  vim Assignment1.txt 
+ 1011  cd ..
+ 1012  vim Assignment1.txt 
+ 1013  ls -l /etc/os-release
+ 1014  vim Assignment1.txt 
+ 1015  history > cmds.log

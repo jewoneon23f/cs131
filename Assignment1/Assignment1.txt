@@ -12,6 +12,7 @@ Output: uid=1145(jewonf23) gid=1145(jewonf23) groups=1145(jewonf23),77(S77)
 -------------
 5. Chmod u-w myDir
    Can ls, can ls -l
+Output: touch: cannot touch 'file': Permission denied
    Can’t create files under it
 -------------
 6. touch myDir2
@@ -21,9 +22,14 @@ Output: uid=1145(jewonf23) gid=1145(jewonf23) groups=1145(jewonf23),77(S77)
    mv myFile.txt /mnt/scratch/FA23_CS131_Ashish/jewonf23/cs131/Assignment1/myDir3
 -------------
 8. free -m
+              total        used        free      shared  buff/cache   available
+Mem:          71367       12156        4919        1228       54291       55723
+Swap:          4119        1049        3070
 -------------
-9. /etc/os-release
+9. cat /etc/os-release
+Output: VERSION="8.6 (Ootpa)"
 -------------
-10.lrwxrwxrwx. 1 root root 22 Apr  6  2022 /etc/os-release -> ..//usr/lib/os-release
-   rwx for all users
+10. ls -l /etc/os-release
+Output: lrwxrwxrwx. 1 root root 22 Apr  6  2022 /etc/os-release -> ..//usr/lib/os-release
+        rwx for all users
 -------------
