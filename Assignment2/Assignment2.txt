@@ -1,0 +1,71 @@
+1.
+a. The command find /etc -type f > one.txt 2> two.txt searches for all regular files in the /etc directory and writes the list of files to the file one.txt. Any errors encountered during the search are redirected to the file two.txt. 
+b. Using the cat command to view the contents of one.txt and two.txt, we can see that one.txt contains a list of all regular files in the /etc directory. Also, we can see that two.txt contains a list of all errors from one.txt.
+------------------------------------------------------------------------------------------
+2.
+1. March 2006, with 15 channels  
+2. July 2014, with 13 channels 
+3. Aug 2014 with 12 channels
+
+The command(s) used to find it was this: cut, sort, uniq, head
+
+Explain the command along with the parameters used and the reason for using them.
+cut -d, -f20,21: This command cuts the Global YouTube Statistics.csv file on the comma delimiter and extracts the 20th and 21st columns, which contain the created year and created month, respectively.
+sort: This command sorts the output of the cut command in ascending order.
+uniq -c: This command counts the number of occurrences of each unique line in the output of the sort command.
+sort -nr: This command sorts the output of the uniq -c command in reverse numerical order, with the most frequent lines listed first.
+head -3: This command prints the top three lines of the output of the sort -nr command.
+
+Reason for using the cut, sort, and uniq commands:
+The cut command is used to extract the relevant columns from the CSV file. The sort command is used to sort the extracted data in ascending order. The uniq -c command is used to count the number of occurrences of each unique line in the data. The sort -nr command is used to sort the data in reverse numerical order, with the most frequent lines listed first. The head -3 command is used to print the top three lines of the data.
+------------------------------------------------------------------------------------------
+3.
+Command: ps -u jewonf23
+    PID TTY          TIME CMD
+  87969 ?        00:00:00 sshd
+  87970 pts/60   00:00:00 bash
+  95073 pts/60   00:00:00 ps
+ 946380 ?        00:03:23 systemd
+ 946382 ?        00:00:00 (sd-pam)
+ 956483 ?        00:00:00 tmux: server
+ 956484 pts/61   00:00:00 bash
+ 956833 pts/62   00:00:00 bash
+------------------------------------------------------------------------------------------
+4.
+b. To open a second terminal window and execute the command ps -u jewonf23, i would first need to open a new terminal window. Once the new terminal window is open, i would type the command ps -u jewonf23 and press Enter. This will list all the running processes on the system and then filter the output to only show the processes that are owned by me.
+    PID TTY          TIME CMD
+ 100736 pts/76   00:00:00 bash
+ 101723 pts/93   00:00:00 bash
+ 102982 ?        00:00:00 sshd
+ 102983 pts/60   00:00:00 bash
+ 103104 ?        00:00:00 sshd
+ 103107 pts/62   00:00:00 bash
+ 103178 pts/60   00:00:00 vim
+ 103499 pts/62   00:00:00 ps
+ 946380 ?        00:03:23 systemd
+ 946382 ?        00:00:00 (sd-pam)
+ 956483 ?        00:00:00 tmux: server
+ 956484 pts/61   00:00:00 bash
+
+d.After quitting the vi text editor, the output of the command ps -u jewonf23 will show that the vi process is no longer running. This is because the vi process was terminated when you quit the vi text editor.
+
+    PID TTY          TIME CMD
+ 100736 pts/76   00:00:00 bash
+ 101723 pts/93   00:00:00 bash
+ 102982 ?        00:00:00 sshd
+ 102983 pts/60   00:00:00 bash
+ 103104 ?        00:00:00 sshd
+ 103107 pts/62   00:00:00 bash
+ 103975 pts/62   00:00:00 ps
+ 946380 ?        00:03:24 systemd
+ 946382 ?        00:00:00 (sd-pam)
+ 956483 ?        00:00:00 tmux: server
+ 956484 pts/61   00:00:00 bash
+------------------------------------------------------------------------------------------
+5.
+Command: ps aux | grep systemd
+The init process in Linux is the first process that is started when the system boots up. It is responsible for initializing the system and starting all other essential processes. The process ID for the init process is always 1.
+------------------------------------------------------------------------------------------
+6.
+The command ps aux lists all the running processes on the system, along with various information about each process, such as the process ID, the user name, the process name, and the percentage of CPU and memory that the process is using.
+
