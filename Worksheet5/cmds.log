@@ -1,0 +1,16 @@
+  951  awk -F',' '$8 == "United States" {print}' Global\ YouTube\ Statistics.csv > United\ State
+ 1006  touch Music.txt
+ 1007  touch Entertainment.txt
+ 1008  touch Gaming.txt
+ 1009  touch Comedy.txt
+ 1010  csv_file="United State"
+ 1011  IFS=$'\n' read -d '' -r -a lines < "$csv_file"
+ 1012  for line in "${lines[@]}"; do     category=$(echo "$line" | cut -d',' -f5) ;          if [ "$category" == "Music" ]; then         echo "$line" >> Music.txt;      elif [ "$category" == "Entertainment" ]; then         echo "$line" >> Entertainment.txt;      elif [ "$category" == "Gaming" ]; then         echo "$line" >> Gaming.txt;      elif [ "$category" == "Comedy" ]; then         echo "$line" >> Comedy.txt;      fi; done
+ 1013  ls
+ 1014  cat Comedy.txt 
+ 1015  wc -l Music.txt > ws5.txt
+ 1016  wc -l Entertainment.txt  >> ws5.txt 
+ 1017  wc -l Gaming.txt >> ws5.txt 
+ 1018  wc -l Comedy.txt >> ws5.txt 
+ 1019  cat ws5.txt 
+ 1020  history > cmds.log
