@@ -1,0 +1,42 @@
+  862  ls
+  863  wget https://raw.githubusercontent.com/khanchandaniashish/CS131/main/awkdata/last.fake
+  864  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/passwd.fake 
+  865  wget https://github.com/khanchandaniashish/CS131/blob/main/awkdata/ps.fake 
+  866  ls
+  867  less last.fake 
+  868  less passwd.fake 
+  869  less ps.fake 
+  870  grep -E 'f23' last.fake
+  871  grep -E 'f23' last.fake > lastf23.fake
+  872  wc -l lastf23.fake
+  873  less last
+  874  less last.fake 
+  875  ls
+  908  echo The list of people who worked on Sunday are: ;  grep -E 'Sun' lastf23.fake | awk '{print $1}' | sort | uniq; echo Kudos to these people for putting in the work
+  970  awk '{ if ($10 == "") $2 = $2 "        ---.--.--.--     "; print }' lastf23.fake > lastf23
+  979  mv lastf23 lastf23.fake
+  980  ls
+  981  cat lastf23.fake 
+ 1005  cd cs131/Assignment3
+ 1012  ls
+ 1013  awk '/^t/' lastf23.fake
+ 1014  awk '$1 ~ /^t/' lastf23.fake 
+ 1035  awk -F ':' '$1 ~ /^a/ && $3 % 2 == 0 {print $1}' passwd.fake
+ 1043  sed 's/[a-zA-Z0-9 ]//g' passwd.fake | sort -u
+ 1044  cat lastf23.fake 
+ 1045  awk '$7 ~ /23:../ || ($7 >= "00:00" && $7 <= "04:00") {print $1}' lastf23.fake | sort | uniq
+ 1046  awk '$7 ~ /23:../ || ($7 >= "00:00" && $7 <= "04:00") {print}' lastf23.fake
+ 1047  awk '$7 ~ /23:../ {print}' lastf23.fake
+ 1048  awk '$7 ~ /23:../ {print}' lastf23.fake | wc
+ 1049  awk '$7 ~ /23:../ || ($7 >= "00:00" && $7 <= "04:00") {print}' lastf23.fake
+ 1050  $ echo Night Owls List:;  awk '$7 ~ /23:../ || ($7 >= "00:00" && $7 <= "04:00") {print $1}' lastf23.fake | sort | uniq; echo Night Owls are dope. Please ensure you get enough sleep though.
+ 1051  echo Night Owls List:;  awk '$7 ~ /23:../ || ($7 >= "00:00" && $7 <= "04:00") {print $1}' lastf23.fake | sort | uniq; echo Night Owls are dope. Please ensure you get enough sleep though.
+ 1052  awk '$7 >= "05:00" && $7 <= "09:00" {print $1}' lastf23.fake | sort | uniq
+ 1053  awk '$7 >= "05:00" && $7 <= "09:00" {print}' lastf23.fake
+ 1054  awk '$7 >= "05:00" && $7 <= "09:00" {print}' lastf23.fake | wc
+ 1055   echo Early Birds List:; awk '$7 >= "05:00" && $7 <= "09:00" {print $1}' lastf23.fake | sort | uniq; echo Early Birds are dope. Please ensure you get enough sleep though.
+ 1056  ls
+ 1057  touch Assignment3.txt
+ 1058  vim Assignment3.txt 
+ 1059  cat Assignment3.txt 
+ 1060  history > cmds.log
