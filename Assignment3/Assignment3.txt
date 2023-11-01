@@ -9,7 +9,7 @@ Output of Command:
 Task 2
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Command(s) used to solve : 
-echo The list of people who worked on Sunday are: ;  grep -E 'Sun' lastf23.fake | awk '{print $1}' | sort | uniq; echo Kudos to these people for putting in the work
+grep -E 'Sun' lastf23.fake | awk '{print $1}' | sort | uniq | awk 'BEGIN {print "The list of people who worked on Sunday are:"} {print $1} END {print "Kudos to these people for putting in the work"}'
 Output of Command: 
 The list of people who worked on Sunday are:
 jewonf23
